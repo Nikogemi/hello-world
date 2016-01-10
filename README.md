@@ -1,5 +1,6 @@
 # hello-world
-Hello, I am Nicholas, also known as Niko. Suffice it to say i am absurdly new to the world of coding.
+Hello, I am Nicholas, also known as Niko.
+Suffice it to say i am absurdly new to the world of coding.
 However I find it very interesting, want to learn as much as i possibly can, and am just plain tired of being security in the nightclub/bar industry.
 Truth told, it's mind numbing and not exactly a livable wage.
 At present I live in San Francisco, I was actually born here, though I was raised in the Chicagoland area about half of my life.
